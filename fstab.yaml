@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8443/bin/franklin.delivery/comwrapkk/comwrap-universal-eds/main"
+    url: "http://localhost:4502/sites.html/content/UEcomwrapName"
     type: "markup"
     suffix: ".html"
